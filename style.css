@@ -1,0 +1,71 @@
+#header {
+    width: 790px;
+    background-color:purple;
+    color:white;
+    text-align:center;
+    padding:5px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#nav {
+    width: 790px;
+            margin-left: auto;
+    margin-right: auto;
+    line-height:10px;
+    background-color:blue;
+    padding:5px; 
+
+}
+#content {
+    width: 790px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding:10px; 
+
+}
+#border{
+            margin-left: auto;
+    margin-right: auto;
+        border: 2px solid #a1a1a1;
+
+    width: 800px;
+
+}
+#scontent{
+        width: 790px;
+            padding:10px; 
+    height: 500px;
+}
+#content1{
+        position:relative;
+    float:left;
+    text-align: left;
+        padding:0px; 
+}
+#content2{
+            position:relative;
+    float:right;
+    text-align: right;
+        padding:0px; 
+}
+form{
+    margin: 0 auto;
+    width: 32em;
+}
+#isiTable{
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+li {
+    display: inline;
+    color: white;
+}
